@@ -1,0 +1,1 @@
+VocÊ precisa aprender PHP seu burro
