@@ -17,10 +17,10 @@ Grandes Telas: acima de 1200px */
     }
 
     img#fon {display: none;}
-img#tv {display: none;}
-img#tbl {display: block;}
-img#pc {display: none;}
-img#imp {display: none;}
+    img#tv {display: none;}
+    img#tbl {display: block;}
+    img#pc {display: none;}
+    img#imp {display: none;}
 }
 
 @media screen and (min-width:600px) and (max-width: 768px) { /*CELULAR*/
@@ -29,10 +29,10 @@ img#imp {display: none;}
     }
 
     img#fon {display: block;}
-img#tv {display: none;}
-img#tbl {display: none;}
-img#pc {display: none;}
-img#imp {display: none;}
+    img#tv {display: none;}
+    img#tbl {display: none;}
+    img#pc {display: none;}
+    img#imp {display: none;}
 }
 
 @media screen and (min-width:992px) and (max-width: 1200px) { /*DEKSTOP*/
@@ -41,10 +41,10 @@ img#imp {display: none;}
     }
 
     img#fon {display: none;}
-img#tv {display: none;}
-img#tbl {display: none;}
-img#pc {display: block;}
-img#imp {display: none;}
+    img#tv {display: none;}
+    img#tbl {display: none;}
+    img#pc {display: block;}
+    img#imp {display: none;}
 }
 
 @media screen and (min-width:1200px) { /*GRANDES IMAGENS*/
@@ -53,10 +53,10 @@ img#imp {display: none;}
     }
 
     img#fon {display: none;}
-img#tv {display: block;}
-img#tbl {display: none;}
-img#pc {display: none;}
-img#imp {display: none;}
+    img#tv {display: block;}
+    img#tbl {display: none;}
+    img#pc {display: none;}
+    img#imp {display: none;}
 }
 
 @media screen and (max-width: 600px) { /*PEQUENAS-IMAGENS*/
@@ -65,8 +65,8 @@ img#imp {display: none;}
     }
 
     img#fon {display: block;}
-img#tv {display: none;}
-img#tbl {display: block;}
-img#pc {display: none;}
-img#imp {display: none;}
+    img#tv {display: none;}
+    img#tbl {display: block;}
+    img#pc {display: none;}
+    img#imp {display: none;}
 }
